@@ -51,5 +51,8 @@ After all necessary changes, you can commit and push your changes to your forked
 All that I ask is please link my profile somewhere in your ReadMe when you deploy, or wherever.
 
 Send me your portfolio link here: `bhanuprakashprof@gmail.com`
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/main
 
