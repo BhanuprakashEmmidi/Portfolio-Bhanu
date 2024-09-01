@@ -18,9 +18,9 @@ function Resume() {
                         <h4 className="ff-jose ls-2">EXPERIENCE</h4>
                         <ul>
                             <li>
-                                <h4 className="ff-jose my-1 text-red">Trainee Software Engineer</h4>
-                                <h6 className="blue-label px-2 py-1">Jul 2021 - Apr 2022</h6>
-                                <p className="m-0">TatvaSoft · Full-time</p>
+                                <h4 className="ff-jose my-1 text-red">Data Analytics</h4>
+                                <h6 className="blue-label px-2 py-1">Jun 2024 - Aug 2024</h6>
+                                <p className="m-0">Internship</p>
                                 <p>Ahmedabad, Gujarat, India</p>
                             </li>
                             <li>
@@ -39,7 +39,7 @@ function Resume() {
                                 <h4 className="ff-jose my-1 text-red">B.Tech - Computer Science and Engineering</h4>
                                 <h6 className="blue-label px-2 py-1">2020 - 2024</h6>
                                 <p className="m-0">Guru Nanak Institutions Technical Campus</p>
-                                <p>CGPA: 7.72</p>
+                                <p>CGPA: 7.75</p>
                             </li>
                             <li>
                                 <h4 className="ff-jose my-1 text-red">Higher Secondary School</h4>

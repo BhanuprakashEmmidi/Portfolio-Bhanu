@@ -41,8 +41,8 @@ function MyWork() {
                         </div>
                             <h5 className="ff-jose my-1">Weather App</h5>
                             <div className="row d-flex justify-content-center">
-                                <a href="https://weather-yg.herokuapp.com/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><BsLaptop/> Watch Live</a>
-                                <a href="https://github.com/Yagnik-Gohil/Weather" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><AiFillGithub/> Source Code</a>
+                                <a href="https://weather-yg.herokuapp.com/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank" rel="noreferrer"><BsLaptop/> Watch Live</a>
+                                <a href="https://github.com/BhanuprakashEmmidi/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank" rel="noreferrer"><AiFillGithub/> Source Code</a>
                             </div>
 
                     </div>
@@ -72,8 +72,8 @@ function MyWork() {
                         <div>
                             <h5 className="ff-jose my-1">Movie Browser</h5>
                             <div className="row d-flex justify-content-center">
-                                <a href="https://moviehunt-react.herokuapp.com/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><BsLaptop/> Watch Live</a>
-                                <a href="https://github.com/Yagnik-Gohil/MovieHunt" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><AiFillGithub/> Source Code</a>
+                                <a href="https://moviehunt-react.herokuapp.com/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank" rel="noreferrer" ><BsLaptop/> Watch Live</a>
+                                <a href="https://github.com/BhanuprakashEmmidi/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank" rel="noreferrer" ><AiFillGithub/> Source Code</a>
                             </div>
                         </div>
                         
@@ -106,7 +106,7 @@ function MyWork() {
                         </div>
                             <h5 className="ff-jose my-1">Notes MarketPlace</h5>
                             <div className="row d-flex justify-content-center">
-                                <a href="https://github.com/Yagnik-Gohil/NoteMarketPlaceHTML" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><AiFillGithub/> Source Code</a>
+                                <a href="https://github.com/BhanuprakashEmmidi/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank" rel="noreferrer"><AiFillGithub/> Source Code</a>
                             </div>
                         
                     </div>
@@ -138,8 +138,8 @@ function MyWork() {
                         </div>
                             <h5 className="ff-jose my-1">Solo</h5>
                             <div className="row d-flex justify-content-center">
-                                <a href="https://solo-webapp.herokuapp.com/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><BsLaptop/> Watch Live</a>
-                                <a href="https://github.com/Yagnik-Gohil/Solo" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><AiFillGithub/> Source Code</a>
+                                <a href="https://solo-webapp.herokuapp.com/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank" rel="noreferrer" ><BsLaptop/> Watch Live</a>
+                                <a href="https://github.com/BhanuprakashEmmidi/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank" rel="noreferrer" ><AiFillGithub/> Source Code</a>
                             </div>
                         
                     </div>
@@ -171,8 +171,8 @@ function MyWork() {
                         </div>
                             <h5 className="ff-jose my-1">Resume Builder</h5>
                             <div className="row d-flex justify-content-center">
-                                <a href="https://resume-builder-yg.netlify.app/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><BsLaptop/> Watch Live</a>
-                                <a href="https://github.com/Yagnik-Gohil/Resume-Builder" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><AiFillGithub/> Source Code</a>
+                                <a href="https://resume-builder-yg.netlify.app/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank" rel="noreferrer" ><BsLaptop/> Watch Live</a>
+                                <a href="https://github.com/BhanuprakashEmmidi/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank" rel="noreferrer" ><AiFillGithub/> Source Code</a>
                             </div>
                         
                     </div>
@@ -207,8 +207,8 @@ function MyWork() {
                         </div>
                             <h5 className="ff-jose my-1">Natours</h5>
                             <div className="row d-flex justify-content-center">
-                                <a href="https://natour-yg.herokuapp.com/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><BsLaptop/> Watch Live</a>
-                                <a href="https://github.com/Yagnik-Gohil/Natours" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank"><AiFillGithub/> Source Code</a>
+                                <a href="https://natour-yg.herokuapp.com/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank" rel="noreferrer" ><BsLaptop/> Watch Live</a>
+                                <a href="https://github.com/BhanuprakashEmmidi/" className="col-sm-12 col-md-5 portfolio-link text-decoration-none text-white m-1 px-2 py-1 bg-blue rounded" target="_blank" rel="noreferrer"><AiFillGithub/> Source Code</a>
                             </div>
                         
                     </div>

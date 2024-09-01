@@ -24,8 +24,8 @@ function About() {
                             </p>
                             <p className='slide-in-bottom'>
                                 Previously worked as Full stack web developer.<br></br>
-                                The technology I've worked on : <span className="text-red ls-2">Asp.Net Core, Asp.Net Mvc, <br></br>
-                                C#, Sql, Ssms, Telerik-UI, Html, Css, Js, Bootstrap </span>
+                                The technology I've worked on : <span className="text-red ls-2"> Java, Spring, React.js <br></br>
+                                C, SQL, Git, HTML, CSS, JavaScript, Bootstrap </span>
                             </p>
                             <p className='slide-in-bottom'>
                                 Currently Learning React Js Library
